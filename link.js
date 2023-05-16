@@ -1,0 +1,1 @@
+const offerLink = "https://hotcandydh.com/?utm_source=DJECjy4Bi2jKcx&utm_campaign=zozo99";
